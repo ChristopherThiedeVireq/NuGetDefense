@@ -12,7 +12,7 @@
         <description>NuGetDefense was inspired by OWASP SafeNuGet but checks with multiple sources for known
             vulnerabilities.
         </description>
-        <releaseNotes>https://github.com/digitalcoyote/NuGetDefense/releases</releaseNotes>
+        <releaseNotes>https://github.com/digitalcoyote/NuGetDefense/releases/tag/v3.0.2</releaseNotes>
         <repository type="git" url="https://github.com/digitalcoyote/NuGetDefense.git"/>
         <license type="expression">MIT</license>
         <icon>images\icon.png</icon>
